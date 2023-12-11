@@ -72,7 +72,7 @@ Simple Real-Time Chat allows users to:
 * Join chat room.
 * Send and receive real-time messages.
 
-## Usage
+## Important
 If you want delete the database this is the command
    ```bash
     turso db shell name-database
