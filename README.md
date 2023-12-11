@@ -6,6 +6,7 @@ Simple Real-Time Chat is a minimalistic chat application built with Node.js and 
 - [Setting Up Turso with WSL](#setting-up-turso-with-wsl)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Important](#important)
 - [Contact](#contact)
 
 ## Setting Up Turso with WSL
@@ -70,6 +71,15 @@ This URL and TOKEN were copied before.
 Simple Real-Time Chat allows users to:
 * Join chat room.
 * Send and receive real-time messages.
+
+## Usage
+If you want delete the database this is the command
+   ```bash
+    turso db shell name-database
+   ```
+   ```bash
+    DROP TABLE messages;
+   ```
 
 ## Contact
 For any inquiries or feedback, please contact us at ezequielvv103@gmail.com.
