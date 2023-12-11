@@ -72,4 +72,4 @@ Simple Real-Time Chat allows users to:
 * Send and receive real-time messages.
 
 ## Contact
-For any inquiries or feedback, please contact us at [your-email@example.com].
+For any inquiries or feedback, please contact us at ezequielvv103@gmail.com.
