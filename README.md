@@ -72,8 +72,8 @@ Simple Real-Time Chat allows users to:
 * Join chat room.
 * Send and receive real-time messages.
 
-## Important
-If you want delete the database this is the command
+>[!IMPORTANT]
+>If you want delete the database this is the command in the terminal do you have install turso
    ```bash
     turso db shell name-database
    ```
